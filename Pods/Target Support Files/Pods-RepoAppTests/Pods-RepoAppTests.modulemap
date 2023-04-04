@@ -1,0 +1,6 @@
+framework module Pods_RepoAppTests {
+  umbrella header "Pods-RepoAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
